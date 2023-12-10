@@ -18,9 +18,9 @@ Among these k neighbors, count the number of the data points in each category.
 Assign the new data points to that category for which the number of the neighbor is maximum and then our model will be ready.
 
 **Steps to implement KNN** :
-Data Pre-processing step
-Fitting the K-NN algorithm to the Training set
-Predicting the test result
-Test accuracy of the result(Creation of Confusion matrix)
-Visualizing the test set result.
+*Data Pre-processing step*
+*Fitting the K-NN algorithm to the Training set*
+*Predicting the test result*
+*Test accuracy of the result(Creation of Confusion matrix)*
+*Visualizing the test set result*
 
